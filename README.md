@@ -39,5 +39,5 @@ Case #3: so it is okay if you want to just give up
 ## IMAGE OF WORKING DEMO!
 
 <p align="center">
-<img align="centre" width="300" src="Spec.md/Disp1.png" alt="Kenyanese" />
+<img align="centre" width="300" src="Spec.md/Disp.png" alt="Kenyanese" />
 <p>

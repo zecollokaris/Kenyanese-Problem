@@ -12,7 +12,7 @@ Given some text in Kenyanese, can you translate it to back to normal text?
 ## IMAGE OF WORKING DEMO!
 
 <p align="center">
-<img align="centre" width="300" src="Spec.md/Disp.png" alt="Kenyanese" />
+<img align="centre" src="Spec.md/Disp.png" alt="Kenyanese" />
 <p>
 
 ### Input

@@ -9,6 +9,12 @@ Kenyanese is based on the best possible replacement mapping, and we will never c
 
 Given some text in Kenyanese, can you translate it to back to normal text?
 
+## IMAGE OF WORKING DEMO!
+
+<p align="center">
+<img align="centre" width="300" src="Spec.md/Disp.png" alt="Kenyanese" />
+<p>
+
 ### Input
 
 The first line of the input gives the number of test cases, T. T test cases follow, one per line. 
@@ -36,8 +42,4 @@ Case #1: our language is impossible to understand
 Case #2: there are twenty six factorial possibilities
 Case #3: so it is okay if you want to just give up
 
-## IMAGE OF WORKING DEMO!
 
-<p align="center">
-<img align="centre" width="300" src="Spec.md/Disp.png" alt="Kenyanese" />
-<p>

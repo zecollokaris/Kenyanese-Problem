@@ -26,9 +26,9 @@ None of the text is guaranteed to be valid English.
 
 ### Input
 
-ejp mysljylc kd kxveddknmc re jsicpdrysi
-rbcpc ypc rtcsra dkh wyfrepkym veddknkmkrkcd
-de kr kd eoya kw aej tysr re ujdr lkgc jv
+Case #1: ejp mysljylc kd kxveddknmc re jsicpdrysi
+Case #2: rbcpc ypc rtcsra dkh wyfrepkym veddknkmkrkcd
+Case #3: de kr kd eoya kw aej tysr re ujdr lkgc jv
 
 ### Output 
 

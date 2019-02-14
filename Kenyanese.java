@@ -70,9 +70,19 @@ public class Kenyanese {
      * @throws FileNotFoundException
      */
     public static void main(String[] args) throws FileNotFoundException {
+        //        Set in input options which user will choose inputs which will match functions set
+        System.out.println("  \n" +
+                "██╗  ██╗███████╗███╗   ██╗██╗   ██╗ █████╗ ███╗   ██╗███████╗███████╗███████╗\n" +
+                "██║ ██╔╝██╔════╝████╗  ██║╚██╗ ██╔╝██╔══██╗████╗  ██║██╔════╝██╔════╝██╔════╝\n" +
+                "█████╔╝ █████╗  ██╔██╗ ██║ ╚████╔╝ ███████║██╔██╗ ██║█████╗  ███████╗█████╗  \n" +
+                "██╔═██╗ ██╔══╝  ██║╚██╗██║  ╚██╔╝  ██╔══██║██║╚██╗██║██╔══╝  ╚════██║██╔══╝  \n" +
+                "██║  ██╗███████╗██║ ╚████║   ██║   ██║  ██║██║ ╚████║███████╗███████║███████╗\n" +
+                "╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚══════╝\n" +
+                "                                                                             \n  ");
+        System.out.println("    ");
         int lines = 0;
 
-        Scanner in = new Scanner(new File("A-small-attempt0.in"));
+        Scanner in = new Scanner(new File("samplepractice.in"));
         lines = in.nextInt();
         in.nextLine();
         for (int line = 0; line < lines; ++line) {
@@ -172,7 +182,6 @@ public class Kenyanese {
                 c = 'q';
                 break;
             default:
-                // don't change c
                 break;
         }
         return c;
